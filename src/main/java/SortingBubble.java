@@ -14,6 +14,6 @@ public class SortingBubble {
                 }
             }
         }
-        System.out.println(Arrays.toString(arrays));
+        System.out.println(Arrays.toString(arrays)); //
     }
 }
